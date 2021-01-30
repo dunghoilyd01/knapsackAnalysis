@@ -6,7 +6,7 @@ def file_convert(tenfile):
     with open(tenfile, 'r') as file:
         all_file = file.read().strip()
         all_file_list = all_file.split('\n')
-        final_data = [[int(each_int) for each_int in line.split()] for line in all_file_list]  # make list of list and convert to int 
+        final_data = [[int(each_int) for each_int in line.split()] for line in all_file_list]
         return final_data
     
 

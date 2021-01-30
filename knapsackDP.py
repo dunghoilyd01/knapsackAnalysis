@@ -18,20 +18,22 @@ class knapsackDP:
         self.duyetmang += DEFAULTSPACEUSAGE
         self.gan += DEFAULTSPACEUSAGE
         K = [[0 for x in range(W + 1)] for x in range(n + 1)] 
-        self.sosanh += 1
+        self.sosanh += DEFAULTSPACEUSAGE
         for i in range(n + 1):
-            self.sosanh += 2 
             for w in range(W + 1):
-                self.sosanh += 3  
+                self.sosanh += 2 
                 if i == 0 or w == 0: 
                     K[i][w] = 0
                     self.gan += 1
                 elif wt[i-1] <= w: 
+                    self.sosanh += 1
                     K[i][w] = max(val[i-1] 
                               + K[i-1][w-wt[i-1]],   
-                                  K[i-1][w]) 
+                                  K[i-1][w])
+                    self.gan += 1 
                 else: 
                     K[i][w] = K[i-1][w] 
+                    self.gan += 1
         return K[n][W] 
     
     def Solve(self):
@@ -46,3 +48,4 @@ val =  [9, 10, 48, 8, 34, 12, 34, 47, 39, 14, 13, 0, 45, 30, 39, 41, 4, 26, 42, 
 a = knapsackDP(W, n, wt, val)
 a.Solve()
 print(a.ketqua)
+print(a.gan+a.sosanh+a.duyetmang)

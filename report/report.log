@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 12:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Do an CS112/knapsackAnalysis/baocao/baocao.tex"
-(d:/Do an CS112/knapsackAnalysis/baocao/baocao.tex
+**"d:/Do an CS112/knapsackAnalysis/report/report.tex"
+(d:/Do an CS112/knapsackAnalysis/report/report.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/texlive/2020/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
@@ -487,8 +487,8 @@ File: t5lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count285
 \l__pdf_internal_box=\box52
-) (d:/Do an CS112/knapsackAnalysis/baocao/baocao.aux)
-\openout1 = `baocao.aux'.
+) (d:/Do an CS112/knapsackAnalysis/report/report.aux)
+\openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -576,9 +576,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 38.
 LaTeX Info: Redefining \pageref on input line 38.
 LaTeX Info: Redefining \nameref on input line 38.
- (d:/Do an CS112/knapsackAnalysis/baocao/baocao.out) (d:/Do an CS112/knapsackAnalysis/baocao/baocao.out)
+ (d:/Do an CS112/knapsackAnalysis/report/report.out) (d:/Do an CS112/knapsackAnalysis/report/report.out)
 \@outlinefile=\write3
-\openout3 = `baocao.out'.
+\openout3 = `report.out'.
 
 \c@lstlisting=\count293
 <logo.jpg, id=84, 104.64093pt x 99.37125pt>
@@ -593,7 +593,7 @@ Package pdftex.def Info: a.jpg  used on input line 65.
 (pdftex.def)             Requested size: 181.11255pt x 41.82887pt.
  [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Do an CS112/knapsackAnalysis/baocao/logo.jpg> <d:/Do an CS112/knapsackAnalysis/baocao/a.jpg>] (d:/Do an CS112/knapsackAnalysis/baocao/baocao.toc
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Do an CS112/knapsackAnalysis/report/logo.jpg> <d:/Do an CS112/knapsackAnalysis/report/a.jpg>] (d:/Do an CS112/knapsackAnalysis/report/report.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2.
  (c:/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -625,7 +625,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
-\openout4 = `baocao.toc'.
+\openout4 = `report.toc'.
 
  [2
 
@@ -643,20 +643,20 @@ LaTeX Font Info:    Trying to load font information for T5+lmtt on input line 12
 File: t5lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5
 
-] [6] [7] [8] [9] (d:/Do an CS112/knapsackAnalysis/baocao/baocao.aux)
-Package rerunfilecheck Info: File `baocao.out' has not changed.
+] [6] [7] [8] [9] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
+Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 8DBBD8D0BB6EBAB79300B57294A43AE9;4173.
  ) 
 Here is how much of TeX's memory you used:
- 13043 strings out of 479304
- 182219 string characters out of 5871219
+ 13042 strings out of 479304
+ 182213 string characters out of 5871219
  718491 words of memory out of 5000000
  29888 multiletter control sequences out of 15000+600000
  471154 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,14n,74p,475b,1856s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-t5.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "d:/Do an CS112/knapsackAnalysis/baocao/baocao.pdf" (9 pages, 224134 bytes).
+Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (9 pages, 224134 bytes).
 PDF statistics:
  348 PDF objects out of 1000 (max. 8388607)
  320 compressed objects within 4 object streams
