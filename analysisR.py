@@ -1,12 +1,11 @@
 import knapsackR
-import generator
+import inputReader
+import time
 
-
-
-
-for W in range (80,150,10):
-    wt,val,result = generator.generator(W,80)
-    a = knapsackR.knapsackRecursion(W,80,wt,val)
+for i in range (1,4):
+    W, n, wt, val, result = inputReader.input_processing("Test"+str(i)+".txt")
+    a = knapsackR.knapsackRecursion(W, n, wt, val)
+    time_start = time.time()
     a.Solve()
-    print("n = ", 80,"W = ", W, "complexity = ",a.complexity)
+    print("Ket qua = ", a.ketqua, "| So phep toan = ", a.complexity)
 
