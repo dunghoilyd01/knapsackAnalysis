@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -475,12 +475,8 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthfirst=\dimen170
 ) (c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) (c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-) (c:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-LaTeX Font Info:    Trying to load font information for T5+lmr on input line 38.
+LaTeX Font Info:    Trying to load font information for T5+lmr on input line 40.
  (c:/texlive/2020/texmf-dist/tex/latex/lm/t5lmr.fd
 File: t5lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -490,26 +486,26 @@ File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 ) (d:/Do an CS112/knapsackAnalysis/report/report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count286
@@ -563,7 +559,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 38.
+Package hyperref Info: Link coloring OFF on input line 40.
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -573,23 +569,23 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count292
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
  (d:/Do an CS112/knapsackAnalysis/report/report.out) (d:/Do an CS112/knapsackAnalysis/report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
 \c@lstlisting=\count293
-<logo.jpg, id=84, 104.64093pt x 99.37125pt>
+<logo.jpg, id=92, 104.64093pt x 99.37125pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 46.
+Package pdftex.def Info: logo.jpg  used on input line 48.
 (pdftex.def)             Requested size: 104.64066pt x 99.371pt.
-<a.jpg, id=85, 181.113pt x 41.829pt>
+<a.jpg, id=93, 181.113pt x 41.829pt>
 File: a.jpg Graphic file (type jpg)
 <use a.jpg>
-Package pdftex.def Info: a.jpg  used on input line 65.
+Package pdftex.def Info: a.jpg  used on input line 67.
 (pdftex.def)             Requested size: 181.11255pt x 41.82887pt.
  [1
 
@@ -631,78 +627,113 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 Ch\uhorn \ohorn ng 1.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 92.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 94.
 (c:/texlive/2020/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [3
 
 ] [4]
 Ch\uhorn \ohorn ng 2.
-LaTeX Font Info:    Trying to load font information for T5+lmtt on input line 123.
+LaTeX Font Info:    Trying to load font information for T5+lmtt on input line 125.
 (c:/texlive/2020/texmf-dist/tex/latex/lm/t5lmtt.fd
 File: t5lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5
 
 ] [6] [7]
-<test_showcase.jpg, id=221, 294.34969pt x 593.96906pt>
+<test_showcase.jpg, id=231, 294.34969pt x 593.96906pt>
 File: test_showcase.jpg Graphic file (type jpg)
 <use test_showcase.jpg>
-Package pdftex.def Info: test_showcase.jpg  used on input line 246.
+Package pdftex.def Info: test_showcase.jpg  used on input line 248.
 (pdftex.def)             Requested size: 147.17447pt x 296.9838pt.
  [8 <d:/Do an CS112/knapsackAnalysis/report/test_showcase.jpg>] [9]
-<RT1.JPG, id=266, 220.57407pt x 196.48407pt>
+<RT1.JPG, id=276, 220.57407pt x 196.48407pt>
 File: RT1.JPG Graphic file (type jpg)
 <use RT1.JPG>
-Package pdftex.def Info: RT1.JPG  used on input line 326.
+Package pdftex.def Info: RT1.JPG  used on input line 328.
 (pdftex.def)             Requested size: 220.57352pt x 196.48358pt.
-<RT2.JPG, id=267, 214.55156pt x 196.48407pt>
+<RT2.JPG, id=277, 214.55156pt x 196.48407pt>
 File: RT2.JPG Graphic file (type jpg)
 <use RT2.JPG>
-Package pdftex.def Info: RT2.JPG  used on input line 327.
+Package pdftex.def Info: RT2.JPG  used on input line 329.
 (pdftex.def)             Requested size: 214.55103pt x 196.48358pt.
-<RT3.JPG, id=268, 237.13594pt x 194.22563pt>
+<RT3.JPG, id=278, 237.13594pt x 194.22563pt>
 File: RT3.JPG Graphic file (type jpg)
 <use RT3.JPG>
-Package pdftex.def Info: RT3.JPG  used on input line 328.
+Package pdftex.def Info: RT3.JPG  used on input line 330.
 (pdftex.def)             Requested size: 237.13535pt x 194.22514pt.
  [10 <d:/Do an CS112/knapsackAnalysis/report/RT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/RT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/RT3.JPG>] [11] [12]
 File: test_showcase.jpg Graphic file (type jpg)
 <use test_showcase.jpg>
-Package pdftex.def Info: test_showcase.jpg  used on input line 458.
+Package pdftex.def Info: test_showcase.jpg  used on input line 460.
 (pdftex.def)             Requested size: 147.17447pt x 296.9838pt.
  [13] [14]
-<DPT1.JPG, id=403, 249.93375pt x 194.22563pt>
+<DPT1.JPG, id=413, 249.93375pt x 194.22563pt>
 File: DPT1.JPG Graphic file (type jpg)
 <use DPT1.JPG>
-Package pdftex.def Info: DPT1.JPG  used on input line 538.
+Package pdftex.def Info: DPT1.JPG  used on input line 540.
 (pdftex.def)             Requested size: 249.93314pt x 194.22514pt.
-<DPT2.JPG, id=404, 243.15843pt x 191.21437pt>
+<DPT2.JPG, id=414, 243.15843pt x 191.21437pt>
 File: DPT2.JPG Graphic file (type jpg)
 <use DPT2.JPG>
-Package pdftex.def Info: DPT2.JPG  used on input line 539.
+Package pdftex.def Info: DPT2.JPG  used on input line 541.
 (pdftex.def)             Requested size: 243.15784pt x 191.2139pt.
-<DPT3.JPG, id=405, 259.7203pt x 194.22563pt>
+<DPT3.JPG, id=415, 259.7203pt x 194.22563pt>
 File: DPT3.JPG Graphic file (type jpg)
 <use DPT3.JPG>
-Package pdftex.def Info: DPT3.JPG  used on input line 540.
+Package pdftex.def Info: DPT3.JPG  used on input line 542.
 (pdftex.def)             Requested size: 259.71967pt x 194.22514pt.
- [15] [16 <d:/Do an CS112/knapsackAnalysis/report/DPT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT3.JPG>] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
+ [15] [16 <d:/Do an CS112/knapsackAnalysis/report/DPT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT3.JPG>]
+<OT1.JPG, id=442, 271.0125pt x 133.24782pt>
+File: OT1.JPG Graphic file (type jpg)
+<use OT1.JPG>
+Package pdftex.def Info: OT1.JPG  used on input line 577.
+(pdftex.def)             Requested size: 271.01183pt x 133.24748pt.
+<OT2.JPG, id=443, 288.3272pt x 127.22531pt>
+File: OT2.JPG Graphic file (type jpg)
+<use OT2.JPG>
+Package pdftex.def Info: OT2.JPG  used on input line 578.
+(pdftex.def)             Requested size: 288.32648pt x 127.22499pt.
+<OT3.JPG, id=444, 290.58563pt x 128.73094pt>
+File: OT3.JPG Graphic file (type jpg)
+<use OT3.JPG>
+Package pdftex.def Info: OT3.JPG  used on input line 579.
+(pdftex.def)             Requested size: 290.58492pt x 128.7306pt.
+ [17 <d:/Do an CS112/knapsackAnalysis/report/OT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/OT2.JPG>] [18 <d:/Do an CS112/knapsackAnalysis/report/OT3.JPG>]
+Ch\uhorn \ohorn ng 3.
+
+Overfull \hbox (56.1282pt too wide) in paragraph at lines 590--592
+[][]$\T5/lmtt/m/n/12 https : / / afteracademy . com / blog / what-[]is-[]the-[]difference-[]between-[]iteration-[]and-[]recursion$[]
+ []
+
+
+Overfull \hbox (26.65338pt too wide) in paragraph at lines 590--592
+[]$\T5/lmtt/m/n/12 https : / / stackabuse . com / big-[]o-[]notation-[]and-[]algorithm-[]analysis-[]with-[]python-[]examples/$[] 
+ []
+
+
+Overfull \hbox (34.6032pt too wide) in paragraph at lines 597--598
+[][]$\T5/lmtt/m/n/12 http : / / google . github . io / or-[]tools / python / ortools / algorithms / pywrapknapsack _ solver .
+ []
+
+[19
+
+] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 8DBBD8D0BB6EBAB79300B57294A43AE9;4173.
+(rerunfilecheck)             Checksum: 31C2674837139367D08AD9B1BC2C877D;4972.
  ) 
 Here is how much of TeX's memory you used:
- 13268 strings out of 479304
- 185281 string characters out of 5871219
- 722491 words of memory out of 5000000
- 29976 multiletter control sequences out of 15000+600000
- 471154 words of font info for 57 fonts, out of 8000000 for 9000
+ 13249 strings out of 479304
+ 184725 string characters out of 5871219
+ 720274 words of memory out of 5000000
+ 29938 multiletter control sequences out of 15000+600000
+ 471467 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,14n,74p,475b,1858s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,74p,625b,1885s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-t5.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (16 pages, 556885 bytes).
+Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (19 pages, 657214 bytes).
 PDF statistics:
- 536 PDF objects out of 1000 (max. 8388607)
- 493 compressed objects within 5 object streams
- 273 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 593 PDF objects out of 1000 (max. 8388607)
+ 543 compressed objects within 6 object streams
+ 294 named destinations out of 1000 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 

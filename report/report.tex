@@ -10,6 +10,8 @@
 \usepackage{listings}
 \usepackage{color}
 \usepackage{titlesec}
+\usepackage{url}
+
 
 \titleformat*{\section}{\LARGE\bfseries}
 \titleformat*{\subsection}{\Large\bfseries}
@@ -20,7 +22,7 @@
 \definecolor{mauve}{rgb}{0.58,0,0.82}
 
 \lstset{frame=tb,
-  language=C++,
+  language=python,
   aboveskip=3mm,
   belowskip=3mm,
   showstringspaces=false,
@@ -539,5 +541,69 @@
         \includegraphics{DPT2.JPG}
         \includegraphics{DPT3.JPG}
     \end{center}
+    \section{Kiểm tra độ phức tạp của thư viện OR-Tools và so sánh với các phương pháp trên}
+    Thư viện OR-Tools là một thư viện có cài đặt sẵn các hàm để giải một số bài toán
+    thông dụng, ví dụ Knapsack. Thư viện OR-Tools có tốc độ cao, và tiện dụng, chính xác. 
+    Trong mục này, ta sẽ phân tích nhanh thư viện OR-Tools bằng thực nghiệm, với các
+    file Test như đã dùng với hai cách trên.
+    
+    Mã nguồn cài đặt:
+
+    testortools.py:
+
+    \begin{lstlisting}
+        from ortools.algorithms import pywrapknapsack_solver
+        import inputReader
+        import time
+
+
+        for i in range (1,4):
+            W, n, wt, val, result = inputReader.input_processing("Test" +str(i) + ".txt")
+            solver = pywrapknapsack_solver.KnapsackSolver(
+                pywrapknapsack_solver.KnapsackSolver.
+                KNAPSACK_MULTIDIMENSION_BRANCH_AND_BOUND_SOLVER, 'KnapsackExample')
+            for CustomW in range (W, W + 50, 10):
+                solver.Init(val, [wt], [CustomW])
+                start_time = time.time()
+                print("Ket qua Test", i,"voi CustomW: ", CustomW, "la: ",solver.Solve())
+                print("Thoi gian hoan thanh Test", i, time.time()-start_time)
+
+
+    \end{lstlisting}
+
+    Kết quả chạy thử:
+
+    \begin{center}
+        \includegraphics{OT1.JPG}
+        \includegraphics{OT2.JPG}
+        \includegraphics{OT3.JPG}
+        
+
+        
+        Với kết quả chạy thử nghiệm như trên, ta có thể rút ra kết luận rằng thư viện 
+        OR-Tools giải bài toán Knapsack hiệu quả hơn hẳn so với hai cách giải quyết bài
+        toán trên. Đi kèm với tính đúng đắn đã được chứng minh sẵn, việc dùng hàm 
+        giải bài toán Knapsack được cài đặt trong thư viện OR-Tools để làm mốc kiểm tra 
+        tính đúng đắn và kiểm tra độ phức tạp là hoàn toàn hợp lý.
+    \end{center}
+    \chapter{Tài liệu tham khảo, link repo đồ án}
+    \url{https://afteracademy.com/blog/what-is-the-difference-between-iteration-and-recursion}
+    \url{https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/}
+    
+    \url{https://www.dataquest.io/blog/understanding-regression-error-metrics/}
+    
+    \url{https://developers.google.com/optimization/bin/knapsack}
+
+    \url{http://google.github.io/or-tools/python/ortools/algorithms/pywrapknapsack_solver.html}
+    
+    \url{https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/}
+    
+    \url{https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/}
+
+    \url{https://github.com/google/or-tools}
+
+    Link repo đồ án:
+
+    \url{https://github.com/dunghoilyd01/knapsackAnalysis}
 
 \end{document}
