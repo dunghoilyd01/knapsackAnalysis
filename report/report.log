@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 16:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -643,23 +643,23 @@ LaTeX Font Info:    Trying to load font information for T5+lmtt on input line 12
 File: t5lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5
 
-] [6] [7] [8] [9] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
+] [6] [7] [8] [9] [10] [11] [12] [13] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 8DBBD8D0BB6EBAB79300B57294A43AE9;4173.
  ) 
 Here is how much of TeX's memory you used:
- 13042 strings out of 479304
- 182213 string characters out of 5871219
- 718491 words of memory out of 5000000
- 29888 multiletter control sequences out of 15000+600000
+ 13208 strings out of 479304
+ 184536 string characters out of 5871219
+ 723491 words of memory out of 5000000
+ 29941 multiletter control sequences out of 15000+600000
  471154 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,14n,74p,475b,1856s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,74p,475b,1858s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-t5.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (9 pages, 224134 bytes).
+Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (13 pages, 235186 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 320 compressed objects within 4 object streams
- 143 named destinations out of 1000 (max. 500000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 467 compressed objects within 5 object streams
+ 256 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
