@@ -243,6 +243,8 @@
         \item n hàng tiếp theo: lần lượt chứa wt[0], val[0], wt[1], val[1]... 
         \item wt[n], val[n]: là cân nặng và giá trị của đồ vật
     \end{itemize}
+    \includegraphics[scale=0.5]{test_showcase.jpg}
+
     (Nội dung chi tiết các file có đính kèm trong source code)
     Từ các file test đã tạo ở trên, ta có hàm test tính đúng đắn của mã nguồn đã 
     cài đặt cho phương pháp trên. Ứng với mỗi file test, nếu phát hiện Output sai
@@ -297,8 +299,10 @@
     Ứng với mỗi CustomW, ngoài việc thực hiện đo số phép toán, ta còn đo cả thời gian 
     giải bài toán (Tính theo giây) và sau đó xuất ra màn hình.
 
-    
+
     Mã nguồn thực hiện việc kiểm tra độ phức tạp:
+
+
     analysisR.py
     \begin{lstlisting}
         import knapsackR
@@ -314,7 +318,16 @@
                 print("Test case: ",i, "Custom W:", CustomW)
                 print("Giai bai toan trong:",time.time() - start_time)
                 print("Voi so phep toan: ", a.complexity)
-            \end{lstlisting}
+    \end{lstlisting}
+
+    Kết quả chạy thử:
+
+    \begin{center}
+        \includegraphics{RT1.JPG}
+        \includegraphics{RT2.JPG}
+        \includegraphics{RT3.JPG}
+    \end{center}
+
     \section{Quy hoạch động}
     \subsection{Giới thiệu phương pháp}
     Quy hoạch động (Dynamic Programming) được phát triển bởi nhà toán học Richard Bellman từ thập niên 
@@ -442,6 +455,8 @@
         \item n hàng tiếp theo: lần lượt chứa wt[0], val[0], wt[1], val[1]... 
         \item wt[n], val[n]: là cân nặng và giá trị của đồ vật
     \end{itemize}
+    \includegraphics[scale=0.5]{test_showcase.jpg}
+
     (Nội dung chi tiết các file có đính kèm trong source code)
     Từ các file test đã tạo ở trên, ta có hàm test tính đúng đắn của mã nguồn đã 
     cài đặt cho phương pháp trên. Ứng với mỗi file test, nếu phát hiện Output sai
@@ -475,4 +490,54 @@
             print ("De quy dung cho moi test")
     \end{lstlisting}
     \subsection{Phân tích độ phức tạp bằng thực nghiệm}
+    Với các file test đã sinh ra ở trên, ta tiếp tục sử dụng chúng trong việc phân
+    tích độ phức tạp bằng thực nghiệm.
+
+    Từ tính đúng đắn đã được kiểm chứng ở mục trên, mã nguồn cài đặt cho phương 
+    pháp đệ quy đã được chứng minh là đúng. Từ các file test ở trên, bỏ qua việc sử 
+    dụng tải trọng W có bên trong file, ta sử dụng một "CustomW". CustomW này 
+    có giá trị trong khoảng (W,W+50), và mỗi CustomW sẽ cách nhau một khoảng bằng 10. 
+
+    Ứng với mỗi file test, ta sử dụng lại toàn bộ các giá trị của mảng val, mảng wt,
+    n, tuy nhiên, W sẽ được thay thế bằng CustomW như đã nói trên, và result sẽ được
+    tính lại ứng với mỗi W = CustomW.
+
+    Độ phức tạp của thuật toán được tính bằng tổng số phép toán trong quá trình chạy.
+    Tổng số phép toán trong quá trình chạy là tổng của số phép gán và số phép so sánh.
+    Với mỗi phép so sánh, tổng số phép toán tăng lên 1. Tương tự, với mỗi phép so sánh
+    tổng số phép toán cũng tăng lên 1. Và với mỗi lần duyệt mảng, ta tính nó tương tự 
+    như thực hiện một lần phép so sánh.
+
+    Ứng với mỗi CustomW, ngoài việc thực hiện đo số phép toán, ta còn đo cả thời gian 
+    giải bài toán (Tính theo giây) và sau đó xuất ra màn hình.
+
+    Mã nguồn thực hiện việc kiểm tra độ phức tạp cho cài đặt theo phương pháp
+    Quy hoạch động: 
+
+    analysisDP.py
+
+    \begin{lstlisting}
+        import knapsackDP
+        import inputReader
+        import time
+
+        for i in range (1,4):
+            W, n, wt, val, result = inputReader.input_processing("Test"+str(i)+".txt")
+            for CustomW in range (W, W + 50, 10):
+                a = knapsackDP.knapsackDP(CustomW, n, wt, val)
+                start_time = time.time()
+                a.Solve()
+                print("Test case: ",i, "Custom W:", CustomW)
+                print("Giai bai toan trong:",time.time() - start_time)
+                print("Voi so phep toan: ", a.complexity)
+    \end{lstlisting}
+
+    Kết quả chạy thử:
+
+    \begin{center}
+        \includegraphics{DPT1.JPG}
+        \includegraphics{DPT2.JPG}
+        \includegraphics{DPT3.JPG}
+    \end{center}
+
 \end{document}

@@ -11,10 +11,10 @@
 \contentsline {subsection}{\numberline {2.1.4}Mã nguồn}{6}{subsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.1.5}Phát sinh intput/output để kiểm tra tính đúng đắn}{7}{subsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.1.6}Phân tích độ phức tạp bằng thực nghiệm}{9}{subsection.2.1.6}%
-\contentsline {section}{\numberline {2.2}Quy hoạch động}{9}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Giới thiệu phương pháp}{9}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Mã giả}{10}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Phân tích độ phức tạp bằng các phương pháp toán học}{10}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Mã nguồn}{10}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Phát sinh intput/output để kiểm tra tính đúng đắn}{12}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Phân tích độ phức tạp bằng thực nghiệm}{13}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.2}Quy hoạch động}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Giới thiệu phương pháp}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Mã giả}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Phân tích độ phức tạp bằng các phương pháp toán học}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Mã nguồn}{11}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Phát sinh intput/output để kiểm tra tính đúng đắn}{13}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Phân tích độ phức tạp bằng thực nghiệm}{15}{subsection.2.2.6}%

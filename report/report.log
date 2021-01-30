@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 17:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -643,23 +643,66 @@ LaTeX Font Info:    Trying to load font information for T5+lmtt on input line 12
 File: t5lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5
 
-] [6] [7] [8] [9] [10] [11] [12] [13] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
+] [6] [7]
+<test_showcase.jpg, id=221, 294.34969pt x 593.96906pt>
+File: test_showcase.jpg Graphic file (type jpg)
+<use test_showcase.jpg>
+Package pdftex.def Info: test_showcase.jpg  used on input line 246.
+(pdftex.def)             Requested size: 147.17447pt x 296.9838pt.
+ [8 <d:/Do an CS112/knapsackAnalysis/report/test_showcase.jpg>] [9]
+<RT1.JPG, id=266, 220.57407pt x 196.48407pt>
+File: RT1.JPG Graphic file (type jpg)
+<use RT1.JPG>
+Package pdftex.def Info: RT1.JPG  used on input line 326.
+(pdftex.def)             Requested size: 220.57352pt x 196.48358pt.
+<RT2.JPG, id=267, 214.55156pt x 196.48407pt>
+File: RT2.JPG Graphic file (type jpg)
+<use RT2.JPG>
+Package pdftex.def Info: RT2.JPG  used on input line 327.
+(pdftex.def)             Requested size: 214.55103pt x 196.48358pt.
+<RT3.JPG, id=268, 237.13594pt x 194.22563pt>
+File: RT3.JPG Graphic file (type jpg)
+<use RT3.JPG>
+Package pdftex.def Info: RT3.JPG  used on input line 328.
+(pdftex.def)             Requested size: 237.13535pt x 194.22514pt.
+ [10 <d:/Do an CS112/knapsackAnalysis/report/RT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/RT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/RT3.JPG>] [11] [12]
+File: test_showcase.jpg Graphic file (type jpg)
+<use test_showcase.jpg>
+Package pdftex.def Info: test_showcase.jpg  used on input line 458.
+(pdftex.def)             Requested size: 147.17447pt x 296.9838pt.
+ [13] [14]
+<DPT1.JPG, id=403, 249.93375pt x 194.22563pt>
+File: DPT1.JPG Graphic file (type jpg)
+<use DPT1.JPG>
+Package pdftex.def Info: DPT1.JPG  used on input line 538.
+(pdftex.def)             Requested size: 249.93314pt x 194.22514pt.
+<DPT2.JPG, id=404, 243.15843pt x 191.21437pt>
+File: DPT2.JPG Graphic file (type jpg)
+<use DPT2.JPG>
+Package pdftex.def Info: DPT2.JPG  used on input line 539.
+(pdftex.def)             Requested size: 243.15784pt x 191.2139pt.
+<DPT3.JPG, id=405, 259.7203pt x 194.22563pt>
+File: DPT3.JPG Graphic file (type jpg)
+<use DPT3.JPG>
+Package pdftex.def Info: DPT3.JPG  used on input line 540.
+(pdftex.def)             Requested size: 259.71967pt x 194.22514pt.
+ [15] [16 <d:/Do an CS112/knapsackAnalysis/report/DPT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT3.JPG>] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 8DBBD8D0BB6EBAB79300B57294A43AE9;4173.
  ) 
 Here is how much of TeX's memory you used:
- 13208 strings out of 479304
- 184536 string characters out of 5871219
- 723491 words of memory out of 5000000
- 29941 multiletter control sequences out of 15000+600000
+ 13268 strings out of 479304
+ 185281 string characters out of 5871219
+ 722491 words of memory out of 5000000
+ 29976 multiletter control sequences out of 15000+600000
  471154 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,14n,74p,475b,1858s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-t5.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (13 pages, 235186 bytes).
+Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (16 pages, 556885 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 467 compressed objects within 5 object streams
- 256 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 536 PDF objects out of 1000 (max. 8388607)
+ 493 compressed objects within 5 object streams
+ 273 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
