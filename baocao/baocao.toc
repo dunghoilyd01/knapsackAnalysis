@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}0-1 Knapsack}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Giới thiệu bài toán}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Liên hệ thực tế}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Phát biểu bài toán}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Độ phức tạp Pseudo Polynomial}{4}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Phương pháp thiết kế bài toán}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Đệ quy}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Giới thiệu phương pháp}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Mã giả}{5}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Phân tích độ phức tạp bằng các phương pháp toán học}{6}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Mã nguồn}{6}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Phát sinh intput/output để kiểm tra tính đúng đắn}{6}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Phân tích độ phức tạp bằng thực nghiệm}{7}{subsection.2.1.6}%
+\contentsline {section}{\numberline {2.2}Quy hoạch động}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Giới thiệu phương pháp}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Mã giả}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Phân tích độ phức tạp bằng các phương pháp toán học}{8}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Mã nguồn}{8}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Phát sinh intput/output để kiểm tra tính đúng đắn}{9}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Phân tích độ phức tạp bằng thực nghiệm}{9}{subsection.2.2.6}%
