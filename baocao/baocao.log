@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  30 JAN 2021 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.12)  1 FEB 2021 07:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Do an CS112/knapsackAnalysis/report/report.tex"
-(d:/Do an CS112/knapsackAnalysis/report/report.tex
+**"d:/Do an CS112/knapsackAnalysis/baocao/baocao.tex"
+(d:/Do an CS112/knapsackAnalysis/baocao/baocao.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/texlive/2020/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
@@ -483,8 +483,8 @@ File: t5lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count285
 \l__pdf_internal_box=\box52
-) (d:/Do an CS112/knapsackAnalysis/report/report.aux)
-\openout1 = `report.aux'.
+) (d:/Do an CS112/knapsackAnalysis/baocao/baocao.aux)
+\openout1 = `baocao.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -572,9 +572,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
 LaTeX Info: Redefining \nameref on input line 40.
- (d:/Do an CS112/knapsackAnalysis/report/report.out) (d:/Do an CS112/knapsackAnalysis/report/report.out)
+ (d:/Do an CS112/knapsackAnalysis/baocao/baocao.out) (d:/Do an CS112/knapsackAnalysis/baocao/baocao.out)
 \@outlinefile=\write3
-\openout3 = `report.out'.
+\openout3 = `baocao.out'.
 
 \c@lstlisting=\count293
 <logo.jpg, id=92, 104.64093pt x 99.37125pt>
@@ -589,7 +589,7 @@ Package pdftex.def Info: a.jpg  used on input line 67.
 (pdftex.def)             Requested size: 181.11255pt x 41.82887pt.
  [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Do an CS112/knapsackAnalysis/report/logo.jpg> <d:/Do an CS112/knapsackAnalysis/report/a.jpg>] (d:/Do an CS112/knapsackAnalysis/report/report.toc
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Do an CS112/knapsackAnalysis/baocao/logo.jpg> <d:/Do an CS112/knapsackAnalysis/baocao/a.jpg>] (d:/Do an CS112/knapsackAnalysis/baocao/baocao.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2.
  (c:/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -621,7 +621,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
-\openout4 = `report.toc'.
+\openout4 = `baocao.toc'.
 
  [2
 
@@ -645,7 +645,7 @@ File: test_showcase.jpg Graphic file (type jpg)
 <use test_showcase.jpg>
 Package pdftex.def Info: test_showcase.jpg  used on input line 248.
 (pdftex.def)             Requested size: 147.17447pt x 296.9838pt.
- [8 <d:/Do an CS112/knapsackAnalysis/report/test_showcase.jpg>] [9]
+ [8 <d:/Do an CS112/knapsackAnalysis/baocao/test_showcase.jpg>] [9]
 <RT1.JPG, id=276, 220.57407pt x 196.48407pt>
 File: RT1.JPG Graphic file (type jpg)
 <use RT1.JPG>
@@ -661,7 +661,7 @@ File: RT3.JPG Graphic file (type jpg)
 <use RT3.JPG>
 Package pdftex.def Info: RT3.JPG  used on input line 330.
 (pdftex.def)             Requested size: 237.13535pt x 194.22514pt.
- [10 <d:/Do an CS112/knapsackAnalysis/report/RT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/RT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/RT3.JPG>] [11] [12]
+ [10 <d:/Do an CS112/knapsackAnalysis/baocao/RT1.JPG> <d:/Do an CS112/knapsackAnalysis/baocao/RT2.JPG> <d:/Do an CS112/knapsackAnalysis/baocao/RT3.JPG>] [11] [12]
 File: test_showcase.jpg Graphic file (type jpg)
 <use test_showcase.jpg>
 Package pdftex.def Info: test_showcase.jpg  used on input line 460.
@@ -682,7 +682,7 @@ File: DPT3.JPG Graphic file (type jpg)
 <use DPT3.JPG>
 Package pdftex.def Info: DPT3.JPG  used on input line 542.
 (pdftex.def)             Requested size: 259.71967pt x 194.22514pt.
- [15] [16 <d:/Do an CS112/knapsackAnalysis/report/DPT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT2.JPG> <d:/Do an CS112/knapsackAnalysis/report/DPT3.JPG>]
+ [15] [16 <d:/Do an CS112/knapsackAnalysis/baocao/DPT1.JPG> <d:/Do an CS112/knapsackAnalysis/baocao/DPT2.JPG> <d:/Do an CS112/knapsackAnalysis/baocao/DPT3.JPG>]
 <OT1.JPG, id=442, 271.0125pt x 133.24782pt>
 File: OT1.JPG Graphic file (type jpg)
 <use OT1.JPG>
@@ -698,7 +698,7 @@ File: OT3.JPG Graphic file (type jpg)
 <use OT3.JPG>
 Package pdftex.def Info: OT3.JPG  used on input line 579.
 (pdftex.def)             Requested size: 290.58492pt x 128.7306pt.
- [17 <d:/Do an CS112/knapsackAnalysis/report/OT1.JPG> <d:/Do an CS112/knapsackAnalysis/report/OT2.JPG>] [18 <d:/Do an CS112/knapsackAnalysis/report/OT3.JPG>]
+ [17 <d:/Do an CS112/knapsackAnalysis/baocao/OT1.JPG> <d:/Do an CS112/knapsackAnalysis/baocao/OT2.JPG>] [18 <d:/Do an CS112/knapsackAnalysis/baocao/OT3.JPG>]
 Ch\uhorn \ohorn ng 3.
 
 Overfull \hbox (56.1282pt too wide) in paragraph at lines 590--592
@@ -717,20 +717,20 @@ Overfull \hbox (34.6032pt too wide) in paragraph at lines 597--598
 
 [19
 
-] (d:/Do an CS112/knapsackAnalysis/report/report.aux)
-Package rerunfilecheck Info: File `report.out' has not changed.
+] (d:/Do an CS112/knapsackAnalysis/baocao/baocao.aux)
+Package rerunfilecheck Info: File `baocao.out' has not changed.
 (rerunfilecheck)             Checksum: 31C2674837139367D08AD9B1BC2C877D;4972.
  ) 
 Here is how much of TeX's memory you used:
- 13249 strings out of 479304
- 184725 string characters out of 5871219
+ 13250 strings out of 479304
+ 184731 string characters out of 5871219
  720274 words of memory out of 5000000
  29938 multiletter control sequences out of 15000+600000
  471467 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,14n,74p,625b,1885s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-t5.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "d:/Do an CS112/knapsackAnalysis/report/report.pdf" (19 pages, 657214 bytes).
+Output written on "d:/Do an CS112/knapsackAnalysis/baocao/baocao.pdf" (19 pages, 657214 bytes).
 PDF statistics:
  593 PDF objects out of 1000 (max. 8388607)
  543 compressed objects within 6 object streams
